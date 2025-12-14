@@ -37,12 +37,12 @@ My projects reflect my ability to apply complex concepts to real-world problems:
 
 * Microsoft Certified: Azure AI Fundamentals
 * Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-* [cite_start]Postman API Fundamentals Student Expert [cite: 152]
-* [cite_start]Kaggle Intro to Machine Learning [cite: 29]
+* Postman API Fundamentals Student Expert 
+* Kaggle Intro to Machine Learning 
 
 ---
 
 ## 📫 Let's Connect!
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/sumudu-ratnayake-782b90235](https://www.linkedin.com/in/sumudu-ratnayake-782b90235) 
-* [cite_start]**Email:** ishadi.leoni@gmail.com [cite: 3, 33, 60, 90, 123]
+* **LinkedIn:** [linkedin.com/in/sumudu-ratnayake-782b90235](https://www.linkedin.com/in/sumudu-ratnayake-782b90235) 
+* **Email:** ishadi.leoni@gmail.com 
