@@ -2,7 +2,7 @@
 
 ### Aspiring ML, Data, and Software Engineer
 
-A passionate Computer Science undergraduate (Current GPA: 3.8/4.0) from General Sir John Kotelawala Defence University. I thrive on building and analyzing **AI/ML-driven** and **scalable software systems**. I have a strong foundation in algorithmic problem-solving and am actively seeking an internship opportunity.
+A passionate Computer Science undergraduate from General Sir John Kotelawala Defence University. I thrive on building and analyzing **AI/ML-driven** and **scalable software systems**. I have a strong foundation in algorithmic problem-solving and am actively seeking an internship opportunity.
 
 ---
 
