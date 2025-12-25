@@ -45,4 +45,5 @@ My projects reflect my ability to apply complex concepts to real-world problems:
 ## 📫 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/sumudu-ratnayake-782b90235](https://www.linkedin.com/in/sumudu-ratnayake-782b90235) 
-* **Email:** ishadi.leoni@gmail.com 
+* **Email:** ishadi.leoni@gmail.com
+* **Personal Portfolio:** https://lilvamp237.github.io/sumudu-ratnayake-portfolio/
