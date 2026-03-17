@@ -1,8 +1,8 @@
 # Hi, I'm Sumudu Ratnayake! 👋
 
-### Aspiring ML, Data, and Software Engineer
+### Aspiring AI/ML, Data, Software Engineer, and XR/VR Enthu
 
-A passionate Computer Science undergraduate from General Sir John Kotelawala Defence University. I thrive on building and analyzing **AI/ML-driven** and **scalable software systems**. I have a strong foundation in algorithmic problem-solving and am actively seeking an internship opportunity.
+A passionate Computer Science undergraduate from General Sir John Kotelawala Defence University (GPA: 3.8/4.0). I specialize in Agentic AI frameworks, multi-agent system design, and immersive XR/VR environments. I thrive on building and analyzing **AI/ML-driven** and **scalable software systems**. I have a strong foundation in algorithmic problem-solving and am actively seeking an internship opportunity.
 
 ---
 
@@ -12,11 +12,12 @@ I am versatile across different domains, utilizing a variety of programming lang
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Programming** | Python, Java, C++, TypeScript |
-| **ML/Data** | TensorFlow, scikit-learn, OpenCV, Pandas, NumPy, Statistical Analysis |
-| **Full-Stack/Back-end** | Next.js, Supabase, PostgreSQL, MySQL, REST APIs, Flutter (Dart) |
-| **Core Concepts** | Object-Oriented Programming (OOP), SDLC, Backend Integration, Real-Time Data Handling |
-| **Tools** | Git, Firebase, Streamlit |
+| **AI & Machine Learning** | TensorFlow, Scikit-Learn, Pandas, Agentic RAG Workflows, LangChain |
+| **XR & Game Dev** | Unity, C#, 3D Environments, HCI, Interactive Dialogue Systems |
+| **Languages** | Python, Java, C++, TypeScript, SQL, HTML/CSS |
+| **Full-Stack & DBs** | Next.js, React, Supabase, PostgreSQL, Neo4j (Graph DBs), Firebase |
+| **Tools & Infrastructure** | Git, Docker, Ollama, Azure ML, Mesa Simulation Framework, GitHub Copilot |
+| **Core Concepts** | Multi-Agent Systems, Scalable Architecture, OOP, Data Structures & Algorithms |
 
 ---
 
@@ -24,7 +25,10 @@ I am versatile across different domains, utilizing a variety of programming lang
 
 My projects reflect my ability to apply complex concepts to real-world problems:
 
-* **Agentic-Based Hotel Booking Guest Experience Optimizer:** Created an Agentic System using optimization algorithms to enhance the hotel guest experience by analyzing booking data. (Nov 2025)
+* **Market Analysis Platform:** Engineered an agent-based platform for real-time market analysis, utilizing autonomous agents to simulate and predict market trends (Mar 2026).
+* * **Agentic Guest Experience Optimizer:** Engineered a multi-stage AI pipeline using Agentic RAG and behavior prediction models to automate hospitality engagement (Nov 2025).
+* * **Agentic-Based Hotel Booking Guest Experience Optimizer:** Created an Agentic System using optimization algorithms to enhance the hotel guest experience by analyzing booking data. (Nov 2025)
+  * * **Local Multilingual RAG Chatbot:** Building a localized hospital chatbot supporting English/Sinhala using Ollama and LangChain to ensure 100% data privacy (Feb 2026).
 * **eGOV: Smart Governance Platform:** Developed an end-to-end e-Governance platform (full-stack using Next.js, TypeScript, Supabase, and PostgreSQL). (Aug–Sep 2025)
 * **CareSync: Burnout and Wellness Management:** Developed a solution with an interactive dashboard and mobile integration for monitoring and analyzing wellness data for healthcare professionals. (Jul–Oct 2025)
 * **Telecom Churn Prediction with Genetic Algorithm:** Designed an ML system to predict customer churn, featuring a **Genetic Algorithm for feature selection** and a **Streamlit dashboard** for visualization. (Aug–Sep 2025)
@@ -35,10 +39,13 @@ My projects reflect my ability to apply complex concepts to real-world problems:
 
 ## 🏅 Certifications
 
+* Neo4j Certified Professional
+* ML with Python (Anaconda)
+* GitHub Copilot (Microsoft)
 * Microsoft Certified: Azure AI Fundamentals
 * Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 * Postman API Fundamentals Student Expert 
-* Kaggle Intro to Machine Learning 
+* Unity Essentials
 
 ---
 
