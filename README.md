@@ -1,6 +1,6 @@
 # Hi, I'm Sumudu Ratnayake! 👋
 
-### Aspiring AI/ML, Data, Software Engineer, and XR/VR Enthu
+### Aspiring AI/ML, Data, Software Engineer, and XR/VR Enthusiast
 
 A passionate Computer Science undergraduate from General Sir John Kotelawala Defence University (GPA: 3.8/4.0). I specialize in Agentic AI frameworks, multi-agent system design, and immersive XR/VR environments. I thrive on building and analyzing **AI/ML-driven** and **scalable software systems**. I have a strong foundation in algorithmic problem-solving and am actively seeking an internship opportunity.
 
