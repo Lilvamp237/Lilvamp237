@@ -26,9 +26,8 @@ I am versatile across different domains, utilizing a variety of programming lang
 My projects reflect my ability to apply complex concepts to real-world problems:
 
 * **Market Analysis Platform:** Engineered an agent-based platform for real-time market analysis, utilizing autonomous agents to simulate and predict market trends (Mar 2026).
-* * **Agentic Guest Experience Optimizer:** Engineered a multi-stage AI pipeline using Agentic RAG and behavior prediction models to automate hospitality engagement (Nov 2025).
-* * **Agentic-Based Hotel Booking Guest Experience Optimizer:** Created an Agentic System using optimization algorithms to enhance the hotel guest experience by analyzing booking data. (Nov 2025)
-  * * **Local Multilingual RAG Chatbot:** Building a localized hospital chatbot supporting English/Sinhala using Ollama and LangChain to ensure 100% data privacy (Feb 2026).
+* **Agentic-Based Hotel Booking Guest Experience Optimizer:** Created an Agentic System using optimization algorithms to enhance the hotel guest experience by analyzing booking data. (Nov 2025)
+* **Local Multilingual RAG Chatbot:** Building a localized hospital chatbot supporting English/Sinhala using Ollama and LangChain to ensure 100% data privacy (Feb 2026).
 * **eGOV: Smart Governance Platform:** Developed an end-to-end e-Governance platform (full-stack using Next.js, TypeScript, Supabase, and PostgreSQL). (Aug–Sep 2025)
 * **CareSync: Burnout and Wellness Management:** Developed a solution with an interactive dashboard and mobile integration for monitoring and analyzing wellness data for healthcare professionals. (Jul–Oct 2025)
 * **Telecom Churn Prediction with Genetic Algorithm:** Designed an ML system to predict customer churn, featuring a **Genetic Algorithm for feature selection** and a **Streamlit dashboard** for visualization. (Aug–Sep 2025)
