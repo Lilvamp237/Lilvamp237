@@ -66,14 +66,6 @@ I am deeply interested in **R&D**, specifically focusing on **Explainable AI (XA
 * **Sleepzy (PASI):** Researching the intersection of IoT and mobile interfaces for lucid dream induction via smart pillow technology.
 * **UGCCOF:** Developing frameworks for more sustainable, energy-efficient cloud computing architectures.
 
----
-
-### 🔍 Publication Details
-* **International Presence:** Presented the **Unified Cognitive Load Framework (UCLF)** at the International Conference on Intelligent Devices, Systems, and Applications (**ICDS-2025**) in **West Bengal, India**.
-* **Taylor & Francis Group:** This research is currently being published as a formal book chapter under **CRC Press**.
-* **KDU Institutional Repository:** My research on **Sleepzy (PASI)**, **Green Cloud Computing (UGCCOF)**, and **Sustainability UI/UX** was presented at the **18th International Research Conference (IRC)** in **Ratmalana** and is archived within the **General Sir John Kotelawala Defence University** library repositories.
-* **Researcher Verification:** You can track my full citation history and upcoming R&D work via my ORCID profile.
-
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--1255--1403-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1255-1403)
 
 ---
