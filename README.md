@@ -52,10 +52,6 @@ My projects reflect my ability to apply complex concepts to real-world problems:
 
 I am deeply interested in **R&D**, specifically focusing on **Explainable AI (XAI)**, **Agentic Architectures**, and **Inclusive Infrastructure**.
 
-## 📚 Research & Publications
-
-I am actively involved in **Research & Development (R&D)**, focusing on bridging the gap between theoretical frameworks and scalable AI applications.
-
 | Publication Title | Framework | Conference & Location | Publisher / Repository |
 | :--- | :--- | :--- | :--- |
 | **AI-Driven Inclusive Digital Infrastructure** | **UCLF** | ICDS-2025; West Bengal, India | *CRC Press, Taylor & Francis* (Book Chapter) |
