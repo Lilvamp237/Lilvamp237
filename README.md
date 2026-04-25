@@ -2,7 +2,7 @@
 
 ### Aspiring AI/ML, Data, Software Engineer, and XR/VR Enthusiast
 
-A passionate Computer Science undergraduate from General Sir John Kotelawala Defence University (GPA: 3.8/4.0). I specialize in Agentic AI frameworks, multi-agent system design, and immersive XR/VR environments. I thrive on building and analyzing **AI/ML-driven** and **scalable software systems**. I have a strong foundation in algorithmic problem-solving and am actively seeking an internship opportunity.
+A passionate Computer Science undergraduate from General Sir John Kotelawala Defence University (GPA: 3.8/4.0). I specialize in Agentic AI frameworks, multi-agent system design, and immersive XR/VR environments. I thrive on building and analyzing **AI/ML-driven** and **scalable software systems**. I have a strong foundation in algorithmic problem-solving and am dedicated to bridging the gap between academic research and industry-level software solutions.
 
 ---
 
@@ -45,6 +45,26 @@ My projects reflect my ability to apply complex concepts to real-world problems:
 * Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 * Postman API Fundamentals Student Expert 
 * Unity Essentials
+
+---
+
+## 📚 Research & Publications
+
+I am deeply interested in **R&D**, specifically focusing on **Explainable AI (XAI)**, **Agentic Architectures**, and **Inclusive Infrastructure**.
+
+| Publication Title | Framework/Model | Venue |
+| :--- | :--- | :--- |
+| **AI-Driven Inclusive Digital Infrastructure** | **UCLF** (Unified Cognitive Load Framework) | ICDS West Bengal, India (2025) |
+| **Designing Sleepzy: Lucid Dream Induction** | **PASI** Framework | 18th IRC, KDU (2025) |
+| **Green Cloud Computing Framework** | **UGCCOF** Model | 18th IRC, KDU (2025) |
+| **Sustainability Awareness via Mobile Apps** | **UI/UX Gap Analysis** | 18th IRC, KDU (2025) |
+
+---
+
+### 🔍 Research Highlights
+* **Inclusive Digital Infrastructure (UCLF):** Proposing a framework to optimize cognitive load for students with specialized educational needs.
+* **Sleepzy (PASI):** Researching the intersection of IoT and mobile interfaces for lucid dream induction via smart pillow technology.
+* **UGCCOF:** Developing frameworks for more sustainable, energy-efficient cloud computing architectures.
 
 ---
 
