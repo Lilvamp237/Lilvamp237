@@ -54,7 +54,7 @@ I am deeply interested in **R&D**, specifically focusing on **Explainable AI (XA
 
 | Publication Title | Framework/Model | Venue |
 | :--- | :--- | :--- |
-| **AI-Driven Inclusive Digital Infrastructure** | **UCLF** (Unified Cognitive Load Framework) | ICDS West Bengal, India (2025) |
+| **AI-Driven Inclusive Digital Infrastructure** | **UCLF** (Unified Cognitive Load Framework) | ICSDS West Bengal, India (2025) |
 | **Designing Sleepzy: Lucid Dream Induction** | **PASI** Framework | 18th IRC, KDU (2025) |
 | **Green Cloud Computing Framework** | **UGCCOF** Model | 18th IRC, KDU (2025) |
 | **Sustainability Awareness via Mobile Apps** | **UI/UX Gap Analysis** | 18th IRC, KDU (2025) |
