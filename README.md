@@ -52,12 +52,16 @@ My projects reflect my ability to apply complex concepts to real-world problems:
 
 I am deeply interested in **R&D**, specifically focusing on **Explainable AI (XAI)**, **Agentic Architectures**, and **Inclusive Infrastructure**.
 
-| Publication Title | Framework/Model | Venue |
-| :--- | :--- | :--- |
-| **AI-Driven Inclusive Digital Infrastructure** | **UCLF** (Unified Cognitive Load Framework) | ICSDS West Bengal, India (2025) |
-| **Designing Sleepzy: Lucid Dream Induction** | **PASI** Framework | 18th IRC, KDU (2025) |
-| **Green Cloud Computing Framework** | **UGCCOF** Model | 18th IRC, KDU (2025) |
-| **Sustainability Awareness via Mobile Apps** | **UI/UX Gap Analysis** | 18th IRC, KDU (2025) |
+## 📚 Research & Publications
+
+I am actively involved in **Research & Development (R&D)**, focusing on bridging the gap between theoretical frameworks and scalable AI applications.
+
+| Publication Title | Framework | Conference & Location | Publisher / Repository |
+| :--- | :--- | :--- | :--- |
+| **AI-Driven Inclusive Digital Infrastructure** | **UCLF** | ICDS-2025; West Bengal, India | *CRC Press, Taylor & Francis* (Book Chapter) |
+| **Designing Sleepzy: Lucid Dream Induction** | **PASI** | 18th IRC KDU; Ratmalana, Sri Lanka | KDU Institutional Repository |
+| **Green Cloud Computing Framework** | **UGCCOF** | 18th IRC KDU; Ratmalana, Sri Lanka | KDU Institutional Repository |
+| **Sustainability Awareness via Mobile Apps** | **UI/UX** | 18th IRC KDU; Ratmalana, Sri Lanka | KDU Institutional Repository |
 
 ---
 
@@ -65,6 +69,16 @@ I am deeply interested in **R&D**, specifically focusing on **Explainable AI (XA
 * **Inclusive Digital Infrastructure (UCLF):** Proposing a framework to optimize cognitive load for students with specialized educational needs.
 * **Sleepzy (PASI):** Researching the intersection of IoT and mobile interfaces for lucid dream induction via smart pillow technology.
 * **UGCCOF:** Developing frameworks for more sustainable, energy-efficient cloud computing architectures.
+
+---
+
+### 🔍 Publication Details
+* **International Presence:** Presented the **Unified Cognitive Load Framework (UCLF)** at the International Conference on Intelligent Devices, Systems, and Applications (**ICDS-2025**) in **West Bengal, India**.
+* **Taylor & Francis Group:** This research is currently being published as a formal book chapter under **CRC Press**.
+* **KDU Institutional Repository:** My research on **Sleepzy (PASI)**, **Green Cloud Computing (UGCCOF)**, and **Sustainability UI/UX** was presented at the **18th International Research Conference (IRC)** in **Ratmalana** and is archived within the **General Sir John Kotelawala Defence University** library repositories.
+* **Researcher Verification:** You can track my full citation history and upcoming R&D work via my ORCID profile.
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--1255--1403-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1255-1403)
 
 ---
 
